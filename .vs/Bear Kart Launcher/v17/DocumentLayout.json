@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olive\\Bear Kart Launcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|c:\\users\\olive\\bear kart launcher\\bear kart launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|solutionrelative:bear kart launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|c:\\users\\olive\\bear kart launcher\\bear kart launcher\\bear kart launcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|solutionrelative:bear kart launcher\\bear kart launcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|c:\\users\\olive\\bear kart launcher\\bear kart launcher\\repolist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|solutionrelative:bear kart launcher\\repolist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|c:\\users\\olive\\bear kart launcher\\bear kart launcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|solutionrelative:bear kart launcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "repolist.txt",
+              "DocumentMoniker": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\repolist.txt",
+              "RelativeDocumentMoniker": "Bear Kart Launcher\\repolist.txt",
+              "ToolTip": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\repolist.txt",
+              "RelativeToolTip": "Bear Kart Launcher\\repolist.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-04T15:27:31.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bear Kart Launcher",
+              "DocumentMoniker": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\Bear Kart Launcher.csproj",
+              "RelativeDocumentMoniker": "Bear Kart Launcher\\Bear Kart Launcher.csproj",
+              "ToolTip": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\Bear Kart Launcher.csproj",
+              "RelativeToolTip": "Bear Kart Launcher\\Bear Kart Launcher.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T15:58:27.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bear Kart Launcher\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bear Kart Launcher\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:49:47.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "2876d07c-83a8-4b77-91ac-3c91b803012a",
+        "Display": 0,
+        "X": 32,
+        "Y": 75,
+        "Width": 1528,
+        "Height": 957,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bear Kart Launcher\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\MainWindow.xaml",
+              "RelativeToolTip": "Bear Kart Launcher\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-02T14:49:49.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

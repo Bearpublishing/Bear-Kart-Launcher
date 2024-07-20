@@ -1,0 +1,21 @@
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\bin\Release\net8.0-windows\Bear Kart Launcher.exe
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\bin\Release\net8.0-windows\Bear Kart Launcher.deps.json
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\bin\Release\net8.0-windows\Bear Kart Launcher.runtimeconfig.json
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\bin\Release\net8.0-windows\Bear Kart Launcher.dll
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\bin\Release\net8.0-windows\Bear Kart Launcher.pdb
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\App.g.cs
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher_Content.g.cs
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher_MarkupCompile.cache
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher_MarkupCompile.lref
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher.g.resources
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher.AssemblyInfoInputs.cache
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher.AssemblyInfo.cs
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher.csproj.CoreCompileInputs.cache
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher.dll
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\refint\Bear Kart Launcher.dll
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher.pdb
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\Bear Kart Launcher.genruntimeconfig.cache
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\obj\Release\net8.0-windows\ref\Bear Kart Launcher.dll

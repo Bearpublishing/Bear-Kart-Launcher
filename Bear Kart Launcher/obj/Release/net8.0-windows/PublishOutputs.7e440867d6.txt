@@ -1,0 +1,5 @@
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\bin\Release\net8.0-windows\publish\Bear Kart Launcher.exe
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\bin\Release\net8.0-windows\publish\Bear Kart Launcher.dll
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\bin\Release\net8.0-windows\publish\Bear Kart Launcher.deps.json
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\bin\Release\net8.0-windows\publish\Bear Kart Launcher.runtimeconfig.json
+C:\Users\olive\Bear Kart Launcher\Bear Kart Launcher\bin\Release\net8.0-windows\publish\Bear Kart Launcher.pdb

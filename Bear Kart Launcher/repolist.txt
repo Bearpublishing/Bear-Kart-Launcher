@@ -1,0 +1,18 @@
+Format of repos.conf:
+
+<k3b version file url>
+<k3b game zip file url>
+<bk2 version file url>
+<bk2 game zip file url>
+<bk1 version file url>
+<bk1 game zip file url>
+
+Deleting repos.conf will reset to the default urls
+
+Custom repos list:
+bk1:
+There are no bear kart custom repos at the moment
+bk2:
+//
+k3b:
+//

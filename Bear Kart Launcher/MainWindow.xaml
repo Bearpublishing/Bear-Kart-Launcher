@@ -1,0 +1,25 @@
+﻿<Window x:Class="Bear_Kart_Launcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bear_Kart_Launcher"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ContentRendered="Window_ContentRendered"
+        Title="Bear Kart Launcher" Height="576" Width="1080">
+    <Grid>
+        <Image Stretch="UniformToFill" Source="Images/bg.png"/>
+        <TextBlock Name="bk1" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="50" Foreground="White" Margin="0,97,0,0" Text="Bear Kart"/>
+        <TextBlock Name="bk2" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="50" Foreground="Black" Margin="0,234,0,0" Text="Bear Kart 2"/>
+        <TextBlock Name="k3b" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="50" Foreground="Black" Margin="0,366,0,0" Text="Kart 3 Bear"/>
+        <TextBlock Name="VersionText" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="20" Foreground="White" Margin="0, 0, 5, 0"/>
+        <TextBlock Name="bk2VersionText" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="20" Foreground="White" Margin="0,0,5,27" RenderTransformOrigin="0.583,-0.285"/>
+        <TextBlock Name="bk1VersionText" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="20" Foreground="White" Margin="0,0,5,54" RenderTransformOrigin="0.583,-0.285"/>
+        <TextBlock Name="Title" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="100" Foreground="White" Text="Bear Kart Launcher" RenderTransformOrigin="0.498,1.572" Margin="0,-21,0,0"/>
+        <Button Name="PlayButton" Content="Checking for updates..." Click="PlayButton_Click" Height="60" FontSize="28" FontWeight="Bold" Foreground="#DDFFFFFF" Margin="0,438,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" MinWidth="150" Background="DarkOrange" Padding="10,1,10,1"/>
+        <Button Name="bk2PlayButton" Content="Checking for updates..." Click="bk2PlayButton_Click" Height="60" FontSize="28" FontWeight="Bold" Foreground="#DDFFFFFF" Margin="0,306,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" MinWidth="150" Background="DarkOrange" Padding="10,1,10,1"/>
+        <Button Name="bk1PlayButton" Content="Checking for updates..." Height="60" FontSize="28" FontWeight="Bold" Foreground="#DDFFFFFF" Margin="0,169,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" MinWidth="150" Background="DarkOrange" Padding="10,1,10,1" Click="bk1PlayButton_Click"/>
+
+    </Grid>
+</Window>
