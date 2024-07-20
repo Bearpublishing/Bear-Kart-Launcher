@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bear Kart Launcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94bda373cbd395b02008065281bae1272f3c8352")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bear Kart Launcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bear Kart Launcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
