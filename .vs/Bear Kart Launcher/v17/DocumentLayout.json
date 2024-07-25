@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\olive\\Bear Kart Launcher\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|c:\\users\\olive\\bear kart launcher\\bear kart launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|solutionrelative:bear kart launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|c:\\users\\olive\\bear kart launcher\\bear kart launcher\\bear kart launcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|solutionrelative:bear kart launcher\\bear kart launcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|c:\\users\\olive\\bear kart launcher\\bear kart launcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|solutionrelative:bear kart launcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|c:\\users\\olive\\bear kart launcher\\bear kart launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|solutionrelative:bear kart launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C584E7A9-1745-4E03-A61E-2274A6C35B13}|Bear Kart Launcher\\Bear Kart Launcher.csproj|c:\\users\\olive\\bear kart launcher\\bear kart launcher\\repolist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -38,12 +42,11 @@
               "RelativeToolTip": "Bear Kart Launcher\\repolist.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-04T15:27:31.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T15:27:31.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Bear Kart Launcher",
               "DocumentMoniker": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\Bear Kart Launcher.csproj",
               "RelativeDocumentMoniker": "Bear Kart Launcher\\Bear Kart Launcher.csproj",
@@ -55,15 +58,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Bear Kart Launcher\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\MainWindow.xaml.cs",
               "RelativeToolTip": "Bear Kart Launcher\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAcwDYAAAAZAAAA",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAmwDYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T14:49:47.387Z"
+              "WhenOpened": "2024-07-02T14:49:47.387Z",
+              "EditorCaption": ""
             }
           ]
         }
@@ -88,7 +92,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\olive\\Bear Kart Launcher\\Bear Kart Launcher\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Bear Kart Launcher\\MainWindow.xaml",
